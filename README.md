@@ -16,8 +16,9 @@ dan bisa berubah kapanpun.
 .
 ├── level-01
 │   ├── go.mod
-│   └── kalkulator
-│       └── main.go
+│   ├── kalkulator
+│   ├── tebak-angka
+│   └── todo
 ├── LICENSE
 └── README.md
 ```
