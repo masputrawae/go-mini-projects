@@ -16,6 +16,7 @@ dan bisa berubah kapanpun.
 .
 ├── level-01
 │   ├── go.mod
+│   ├── grafik-sederhana
 │   ├── kalkulator
 │   ├── tebak-angka
 │   └── todo
